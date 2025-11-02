@@ -34,5 +34,10 @@ Step 03 : Running the js file ::  node dist/index.js
 ---
 
 
-Running project screenshot
+Running project screenshots
+
+Challenge 01
 ![Program Screenshot](./public/ss.png)
+
+Challenge 02
+![Program Screenshot](./public/img.png)
